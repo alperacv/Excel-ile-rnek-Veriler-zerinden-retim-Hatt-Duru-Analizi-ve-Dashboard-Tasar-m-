@@ -72,13 +72,8 @@ Düzenli denetimlerle iyileştirmeleri sürdürülebilir kılın.
 Uyarılar ve Varsayımlar
 
 Analiz yalnızca 5 günlük veri kapsamaktadır; daha uzun dönem farklı sonuçlar doğurabilir.
-
 Kaydedilmemiş kesintiler, analizi kısmen eksik bırakabilir.
-
 Operatör performansı, kısa süreli veriye dayalı olduğundan tam resmi yansıtmayabilir.
 Verimlilik iyileştirmeleri, kontrol edilebilir sorunların etkili bir şekilde çözülmesini varsayar.
 Bu analizde tedarik zinciri kesintileri gibi dış faktörler hesaba katılmamıştır.
-Kullanılan Araçlar
-Excel : Veri analizi ve görselleştirme için XLOOKUP, pivot tablolar ve grafikler.
-Veri Kaynağı
-Bu projede kullanılan veri kümesi Maven Analytics tarafından sağlanmıştır . Kapsamlı veri kümesi ve kaynak kütüphanelerini buradan inceleyebilirsiniz: Maven Analytics .
+
